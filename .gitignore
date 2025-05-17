@@ -1,0 +1,25 @@
+# Byte-code / cache
+__pycache__/
+*.py[cod]
+
+# Environment & creds
+.env
+*.env
+
+# Local vector store and cache
+db/
+tmp/
+tmp_huggingface/
+huggingface_cache/
+.cache/
+.huggingface/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Jupyter and notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
