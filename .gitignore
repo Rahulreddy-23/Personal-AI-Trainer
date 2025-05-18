@@ -23,3 +23,6 @@ Thumbs.db
 
 # VS Code settings
 .vscode/
+
+# Ignore all files in data folder
+data/*
